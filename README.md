@@ -1,3 +1,5 @@
+# The development continues under official repository [appwrite/arena](https://github.com/appwrite/arena)
+
 Welcome to your new TanStack Start app! 
 
 # Getting Started
